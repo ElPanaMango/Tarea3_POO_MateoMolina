@@ -71,4 +71,3 @@ public class ConsolaVista {
         scanner.close();
     }
 }
-```[cite: 15, 16, 17]
